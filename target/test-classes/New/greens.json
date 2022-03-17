@@ -1,0 +1,13 @@
+{
+	"firstName": "Andrew",
+	"lastName": "Vimal",
+	"eMail": "andrewvimal07@gmail.com",
+	"phone": 9876545678,
+	"passWord": "Arulvimal-07",
+	"confirmPassword": "Arulvimal-07",
+	"dateOfBirth": {
+		"day": 10,
+		"month": "May",
+		"year": 1997
+	}
+}

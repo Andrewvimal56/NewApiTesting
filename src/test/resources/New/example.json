@@ -1,0 +1,10 @@
+{
+	"name": "Vimal",
+	"email": "andrewvimal56@gmail.com",
+	"phoneNo": 8765435647,
+	"address": {
+		"street": "MGR Colony",
+		"pincode": 987654,
+		"state": "TamilNadu"
+	}
+}
